@@ -1,0 +1,126 @@
+{
+    "title": "Yu-Hi Kendo Club",
+    "menuSection": [
+        {
+            "title": "Acceuil",
+            "ref": "#home"
+        },
+        {
+            "title": "Sensei",
+            "ref": "#sensei"
+        },
+        {
+            "title": "Agenda",
+            "ref": "#agenda"
+        },
+        {
+            "title": "Contact",
+            "ref": "#contact"
+        },
+        {
+            "title": "Photos",
+            "ref": "#pictures"
+        },
+        {
+            "title": "Glossaire",
+            "ref": "#glossary"
+        }
+    ],
+    "splashSection": "xxx: (littéralement la voie du sabre) est la version moderne du kenjutsu (xx: technique du sabre), l'escrime au sabre pratiquée autrefois au Japon par les samouraïs",
+    "homeSection": {
+        "id": "home",
+        "title": "Acceuil",
+        "caption": "Créé en 1969, le Yu-Hi est un club pour lequel la recherche de la voie n'est pas un vain mot.\nLe respect de l'être humain et la convivialité y sont cultivés depuis toujours.\nPlusieurs entraînements sont organisés chaque semaine, de façon que chacun trouve le moment qui lui convient le mieux pour s'initier ou se perfectionner.\nVous pouvez commencer le kendo à n'importe quel moment de l'année: il n'y a pas de saison à proprement parler, ni d'interruptions pendant les vacances.\nVotre cotisation annuelle unique vous donne accès à autant d'entraînements que vous le souhaitez.\nN'hésitez pas à venir vous rendre compte par vous-même: les trois premières séances sont gratuites !",
+        "subSections": [
+            {
+                "id": "schedule",
+                "title": "Horaires des entraînements",
+                "schedule": [
+                    {
+                        "day": "lundi",
+                        "period": { "from": "18h30", "to": "20h00" },
+                        "place": "ADEPS - G3"
+                    },
+                    {
+                        "day": "jeudi",
+                        "period": { "from": "19h00", "to": "21h00" },
+                        "place": "ARA"
+                    },
+                    {
+                        "day": "samedi",
+                        "period": { "from": "09h00", "to": "11h00" },
+                        "place": "ADEPS - G2"
+                    }
+                ]
+            },
+            {
+                "id": "address",
+                "title": "Adresses",
+                "address": [
+                    {
+                        "name": "ADEPS",
+                        "location": "Centre Sportif de la Forêt de Soignes\n2053 chaussée de Wavre\n1160 Bruxelles"
+                    },
+                    {
+                        "name": "ARA",
+                        "location": "Athénée Royale d'Auderghem\nAvenue du Parc de Woluwe\n1170 Bruxelles"
+                    }
+                ]
+            }
+        ]
+    },
+    "teacherSection": {
+        "id": "sensei",
+        "title": "Sensei",
+        "teachers": [
+            {
+                "name": "Alain Ducarme",
+                "grade": "Renshi - 7ème Dan",
+                "avatar": "Alain_Ducarme.jpg"
+            },
+            {
+                "name": "Jean-Claude Wolfs",
+                "grade": "Renshi - 7ème Dan",
+                "avatar": "JC_Wolfs.jpg"
+            }
+        ]
+    },
+    "agendaSection": {
+        "id": "agenda",
+        "title": "Agenda",
+        "subSections": [
+            {
+                "id": "notifications",
+                "title": "Rappel",
+                "caption": "Les 2 semaines prochaines congés de Pâques donc:\n* Les lundis 3-10-17/04 PAS d'entrainements\n* Les jeudis 6-13/04 ADEPS G2 de 19h30 à 21h30\n* Les samedis comme d'habitude ADEPS G2 de 9h à 11h"
+            },
+            {
+                "id": "warnings",
+                "title": "Attention",
+                "caption": "Avec le nouvelle saison 2016/2017 qui commence, voici les nouvelles dates d'examens Kyu:\n* Jeudi 29/09\n* Samedi 29/10\n* Samedi 24/12\n* Samedi 21/01\n* Jeudi 09/03\n* Samedi 20/05\n* Dimanche 18/06"
+            },
+            {
+                "id": "examinations",
+                "title": "Principe généraux",
+                "caption": "* 6°kyu: Bokuto waza 1 à 4\n* 5°kyu Bokuto waza 1 à 6 + kirikaeshi\n* 4°kyu Bokuto waza 1 à 9 + utchikomi\n* 3°kyu et 2°kyu avec bogu, jigeiko + kendo no kata 1 à 3\n* 1°kyu examen national"
+            }
+        ]
+    },
+    "glossarySection": {
+        "id": "glossary",
+        "title": "Principaux termes utilisés en Kendo"
+    },
+    "contactSection": {
+            "id": "contact",
+            "title": "Contact",
+            "contact": [
+                {
+                    "image": "alain_coord.png"
+                },
+                {
+                    "image": "ismail_coord.png"
+                }
+            ],
+            "caption": "Pour tous renseignements ou inscriptions : yuhisecretariat[at]gmail.com"
+    }
+}

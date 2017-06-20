@@ -1,0 +1,737 @@
+{
+	"terms": [
+		{
+				"name": "MEN O TORE",
+				"definition": "Enlevez le Men",
+				"type": "greeting"
+			},
+			{
+				"name": "MEN O TSUKE",
+				"definition": "Mettez le Men",
+				"type": "greeting"
+
+			},
+			{
+				"name": "MOKUSO",
+				"definition": "Méditation assise",
+				"type": "greeting"
+
+			},
+			{
+				"name": "OTAGAI-NI-REI",
+				"definition": "Salut envers les participants",
+				"type": "greeting"
+			},
+			{
+				"name": "REI",
+				"definition": "Le salut et Saluez",
+				"type": "greeting"
+
+			},
+			{
+				"name": "RITSU REI",
+				"definition": "Saluez à la position où vous vous trouvez",
+				"type": "greeting"
+			},
+			{
+				"name": "SEI RETSU",
+				"definition": "Alignez-vous",
+				"type": "greeting"
+			},
+			{
+				"name": "SEIZA",
+				"definition": "Position agenouillée, les fesses sur les talons",
+				"type": "greeting"
+			},
+			{
+				"name": "SENSEI-NI-REI",
+				"definition": "Salut envers le(s) professeur(s)",
+				"type": "greeting"
+			},
+			{
+				"name": "SHOMEN-NI-REI",
+				"definition": "Salut vers le mur d'honneur",
+				"type": "greeting"
+			},
+			{
+				"name": "HAJIME",
+				"definition": "Commencez, début du combat",
+				"type": "command"
+			},
+			{
+				"name": "KAMAE",
+				"definition": "La garde ou En garde",
+				"type": "command"
+			},
+			{
+				"name": "KOTAI",
+				"definition": "Tournez",
+				"type": "command"
+			},
+			{
+				"name": "OSAME TO",
+				"definition": "Rengainez",
+				"type": "command"
+			},
+			{
+				"name": "YAME",
+				"definition": "Arrêtez",
+				"type": "command"
+			},
+			{
+				"name": "DATOTSU",
+				"definition": "ensemble des frappes (UCHI) et pique (TSUKI)",
+				"type": "strikes"
+			},
+			{
+				"name": "IKKYODO",
+				"definition": "en un seul temps",
+				"type": "strikes"
+			},
+			{
+				"name": "SANKYODO",
+				"definition": "en trois temps",
+				"type": "strikes"
+			},
+			{
+				"name": "SHOMEN",
+				"definition": "frappe au milieu de la tête",
+				"type": "strikes"
+			},
+			{
+				"name": "TSUKI",
+				"definition": "Coup d'estoc (pointe)",
+				"type": "strikes"
+			},
+			{
+				"name": "UCHI",
+				"definition": "nom générique des frappes de taille",
+				"type": "strikes"
+			},
+			{
+				"name": "YOKO MEN",
+				"definition": "Frappe sur le sommet latéral de la tête (nom générique de MIGI et HIDARI MEN)",
+				"type": "strikes"
+			},
+			{
+
+				"name": "MIGI",
+				"definition": "à droite",
+				"type": "direction"
+			},
+			{
+				"name": "HIDARI",
+				"definition": "à gauche",
+				"type": "direction"
+			},
+			{
+				"name": "MAE",
+				"definition": "avant",
+				"type": "direction"
+			},
+			{
+				"name": "USHIRO",
+				"definition": "arrière",
+				"type": "direction"
+			},
+			{
+				"name": "SA-YU",
+				"definition": "droite/gauche",
+				"type": "direction"
+			},
+			{
+				"name": "ZEN-GO",
+				"definition": "avant/arrière",
+				"type": "direction"
+			},
+			{
+				"name": "ASHI SABAKI",
+				"definition": "Déplacement (SABAKI) des pieds (ASHI)",
+				"type": "techniques"
+			},
+			{
+				"name": "JO GEBURI",
+				"definition": "Suburi, la frappe part de derrière la tête et s'arrête au niveau du genou",
+				"type": "techniques"
+			},
+			{
+				"name": "HAYA SUBURI",
+				"definition": "Forme de Suburi avec déplacements rapide des pieds",
+				"type": "techniques"
+			},
+			{
+				"name": "KAKARI GEIKO",
+				"definition": "Exercice dans lequel le pratiquant enchaîne les techniques sans arrêt",
+				"type": "techniques"
+			},
+			{
+				"name": "KATA",
+				"definition": "Forme traditionnelle de transmission des Arts Martiaux sous forme de techniques codifiées (10 formes pour le Kendo) Voir KENDO NO KATA",
+				"type": "techniques"
+			},
+			{
+				"name": "KEIKO",
+				"definition": "Pratique du combat",
+				"type": "techniques"
+			},
+			{
+				"name": "KENDO NO KATA",
+				"definition": "Forme de Kata comprenant 10 séquences codifiées de combat. Un partenaire - Uchi Dachi - prend l'initiative en utilisant le sabre normal - Daitô -, il est contrôlé puis vaincu par l'autre - Shi Dachi - qui utilise le Daitô pendant les 7 premières séries, puis le sabre court - Shotô - au cours des trois dernières. L'arme utilisée dans le Kata est le Bokken ou le Iaïto",
+				"type": "techniques"
+			},
+			{
+				"name": "KIRI KAESHI",
+				"definition": "Exercices de frappes successives. A une frappe SHOMEN succèdent plusieurs frappes SAYU MEN en avançant puis en reculant. Le partenaire, dans le rôle de Moto Dashi, reçoit les frappes sur son Shinaï ou sur son Men",
+				"type": "techniques"
+			},
+			{
+				"name": "SHINKOKYU",
+				"definition": "Exercice de respiration",
+				"type": "techniques"
+			},
+			{
+				"name": "SUBURI",
+				"definition": "Exercice de répétition de frappes dans le vide, précédées d'un armé plus ou moins ample suivant le but recherché",
+				"type": "techniques"
+			},
+			{
+				"name": "UCHI KOMI",
+				"definition": "Exercices de répétition sur des thèmes en rapport avec l'expérience des pratiquants",
+				"type": "techniques"
+			},
+			{
+				"name": "UCHI KOMI GEIKO",
+				"definition": "Un pratiquant expérimenté (MOTO DACHI) conduit l'exercice avec un autre pratiquant (KAKARI) en offrant des opportunités de frappes à son partenaire, mais sans combattre lui-même"
+			},
+			{
+				"name": "CHUDAN NO KAMAE",
+				"definition": "Garde moyenne, la plus courante",
+				"type": "stances"
+			},
+			{
+				"name": "GEDAN NO KAMAE",
+				"definition": "Garde basse",
+				"type": "stances"
+			},
+			{
+				"name": "HASSO NO KAMAE",
+				"definition": "Garde sur l'épaule droite, proche de la bouche, pointe dirigée vers le haut",
+				"type": "stances"
+			},
+			{
+				"name": "JODAN NO KAMAE",
+				"definition": "Garde haute, Shinaï au dessus de la tête",
+				"type": "stances"
+			},
+			{
+				"name": "WAKI GAMAE",
+				"definition": "Sabre tenu du coté droit, pointe vers le bas",
+				"type": "stances"
+			},
+			{
+				"name": "BOGU",
+				"definition": "armure de Kendo (appelée aussi KENDOGU ou DOGU). Désigne l'ensemble des pièces de l'armure soit le Men, les Kote, le Do et le Tare",
+				"type": "equipment"
+			},
+			{
+				"name": "BOKKEN",
+				"definition": "Sabre en bois (utilisé en KENDO NO KATA, en KIHON et en SUBURI)",
+				"type": "equipment"
+			},
+			{
+				"name": "DO",
+				"definition": "Le tronc, désigne aussi la protection du tronc (cuirasse de l'armure de Kendo) qui comprend la partie haute (MUNE) et la partie basse (DO)",
+				"type": "equipment"
+			},
+			{
+				"name": "DO HIMO",
+				"definition": "cordons qui servent à maintenir le DO en place",
+				"type": "equipment"
+			},
+			{
+				"name": "IAITO",
+				"definition": "sabre de métal, normal ou court, non coupant, utilisé pour la pratique du Iaido ou dans le Kendo No Kata",
+				"type": "equipment"
+			},
+			{
+				"name": "DOJO",
+				"definition": "Salle d'entraînement (et de méditation). Anciennement salle d'armes, aujourd'hui le lieu (Jo) où l'on étudie la voie (Do)",
+				"type": "equipment"
+			},
+			{
+				"name": "HAKAMA",
+				"definition": "Pantalon large traditionnel japonais",
+				"type": "equipment"
+			},
+			{
+				"name": "HIMO",
+				"definition": "Lacets et cordons. En compétition, indique que les lacets sont défaits",
+				"type": "equipment"
+			},
+			{
+				"name": "KATANA",
+				"definition": "Sabre japonais en métal que le Samouraï portait à la ceinture",
+				"type": "equipment"
+			},
+			{
+				"name": "KEIKOGI",
+				"definition": "Veste d'entraînement",
+				"type": "equipment"
+			},
+			{
+				"name": "KEN",
+				"definition": "nom générique désignant le sabre (ou l'épée)",
+				"type": "equipment"
+			},
+			{
+				"name": "KENSAKI",
+				"definition": "petit manchon de cuir qui se trouve à la pointe du shinaï",
+				"type": "equipment"
+			},
+			{
+				"name": "KODACHI",
+				"definition": "Le sabre court",
+				"type": "equipment"
+			},
+			{
+				"name": "KOTE",
+				"definition": "L'avant bras et le gant de protection qui comprend une coque de cuir en forme de moufle et une protection d'avant-bras. Désigne également le IPPON correspondant à la frappe sur le Kote.",
+				"type": "equipment"
+			},
+			{
+				"name": "MEN",
+				"definition": "La tête, la face. Désigne aussi le casque de protection et le IPPON correspondant aux frappes SHO MEN et YOKO MEN. Le MEN se compose de la protection de tête (MEN BUTON), de protections d'épaules (SASHI BUTON), d'une grille de protection du visage (MEN GANE) et de cordons (MEN HIMO).",
+				"type": "equipment"
+			},
+			{
+				"name": "NODO",
+				"definition": "Gorge",
+				"type": "equipment"
+			},
+			{
+				"name": "MONOUCHI",
+				"definition": "Partie coupante du sabre",
+				"type": "equipment"
+			},
+			{
+				"name": "MUNE",
+				"definition": "Poitrine, désigne la partie supérieur du Do",
+				"type": "equipment"
+			},
+			{
+				"name": "NAKAYUI",
+				"definition": "Lacet de cuir qui entoure le dernier tiers du shinaï",
+				"type": "equipment"
+			},
+			{
+				"name": "SAKIGAWA",
+				"definition": "Pièce de cuir qui fait l'embout du shinai",
+				"type": "equipment"
+			},
+			{
+				"name": "SAKIGOMU",
+				"definition": "Pièce de caoutchouc qui maintient, sous le SAKIGAWA, l'écartement des lames du Shinaï",
+				"type": "equipment"
+			},
+			{
+				"name": "SHINAI",
+				"definition": "L'arme utilisée dans la pratique du Kendo. Composée de 4 lames (YOTSUWARI) de bambou (ou de fibre de carbone) et de pièces de cuir.",
+				"type": "equipment"
+			},
+			{
+				"name": "TARE",
+				"definition": "protection des hanches",
+				"type": "equipment"
+			},
+			{
+				"name": "TAKE",
+				"definition": "lame (ou lattes) de bambou qui contitue le shinaï, elles sont au nombre de 4",
+				"type": "equipment"
+			},
+			{
+				"name": "TSUBA",
+				"definition": "Garde du sabre qui protège les mains",
+				"type": "equipment"
+			},
+			{
+				"name": "TSUBADOME",
+				"definition": "Anneau qui maintien la tsuba en place",
+				"type": "equipment"
+			},
+			{
+				"name": "TSUKA",
+				"definition": "Poignée du sabre",
+				"type": "equipment"
+			},
+			{
+				"name": "TSUKA GAWA",
+				"definition": "Pièce de cuir recouvrant la Tsuka du Shinaï",
+				"type": "equipment"
+			},
+			{
+				"name": "TSUKI DOME",
+				"definition": "Protection de la gorge",
+				"type": "equipment"
+			},
+			{
+				"name": "TSURU",
+				"definition": "Fil tendu définissant le dos de la lame. Tendu, à travers le NAKAYUI, entre la TSUKA et le SAKIGAWA, il assure la cohésion des différentes parties du Shinaï",
+				"type": "equipment"
+			},
+			{
+				"name": "TENUGUI",
+				"definition": "ou HACHIMAKI, foulard que l'on met sous le Men pour absorber la transpiration",
+				"type": "equipment"
+			},
+			{
+				"name": "ZEKKEN",
+				"definition": "Etui de tissu qui enveloppe la protection centrale du TARE ; y sont inscrits de façon très visible, le nom du pratiquant et du groupe (club, école, pays) qu'il représente",
+				"type": "equipment"
+			},
+			{
+				"name": "ANZA",
+				"definition": "Position assise en tailleur",
+				"type": "positions"
+			},
+			{
+				"name": "ISSOKU ITTO NO MAAI",
+				"definition": "Distance (MAAI) par rapport à l'adversaire où il est possible de lui porter un DATOTSU valable (ITTO) dans un seul pas d'attaque (ISSOKU). Opposé à NISSOKU ITTO NO MAAI",
+				"type": "positions"
+			},
+			{
+				"name": "KAMAE",
+				"definition": "Garde",
+				"type": "positions"
+			},
+			{
+				"name": "MAAI",
+				"definition": "Notion d'intervalle espace-temps entre deux partenaires (cf. ISSOKU et NISSOKU ITTO NO MAAI)",
+				"type": "positions"
+			},
+			{
+				"name": "NISOKU ITTO NO MAAI",
+				"definition": "Distance nécessitant deux pas (NISOKU) pour porter une frappe (ITTO)",
+				"type": "positions"
+			},
+			{
+				"name": "SAGETO",
+				"definition": "Position Shinaï sur le côté gauche, dite position 'sabre bas'",
+				"type": "positions"
+			},
+			{
+				"name": "SEME",
+				"definition": "Action de menacer l'autre en pénétrant sa garde par un léger déplacement vers l'avant. Doit être exécuté avec un fort ZANSHIN",
+				"type": "positions"
+			},
+			{
+				"name": "SEIZA",
+				"definition": "Position agenouillée, les fesses sur les talons",
+				"type": "positions"
+			},
+			{
+				"name": "SHIZENTAI",
+				"definition": "Position debout naturelle, les bras le long du corps et les pieds écartés de la largeur des épaules environ",
+				"type": "positions"
+			},
+			{
+				"name": "SONKYO",
+				"definition": "Position accroupie, buste redressé, arme pointée devant soi",
+				"type": "positions"
+			},
+			{
+				"name": "TSUBA ZERI AI",
+				"definition": "Garde très rapprochée, les 2 Tsubas sont en contact ou très proches, les pointes des Shinaï sont relevées",
+				"type": "positions"
+			},
+			{
+				"name": "TAI ATARI",
+				"definition": "Collision des corps des deux partenaires",
+				"type": "positions"
+			},
+			{
+				"name": "AITE",
+				"definition": "L'autre, le partenaire, l'adversaire (l'autre personne est nécessaire aux progrès, même si on lui est opposé dans l'assaut)",
+				"type": "partner"
+			},
+			{
+				"name": "HANSHI",
+				"definition": "Maître, titre japonais de troisième niveau qui peut être obtenu à partir du 8ème Dan",
+				"type": "partner"
+			},
+			{
+				"name": "KENDOKA",
+				"definition": "Personne experte en Kendo. Terme devenu, par extension abusive en occident, celui de 'pratiquant de Kendo'. La véritable appellation pourrait être 'Kenshi'.",
+				"type": "partner"
+			},
+			{
+				"name": "KAKARI",
+				"definition": "Nom donné au partenaire guidé par le MOTO DASHI dans les différents GEIKO",
+				"type": "partner"
+			},
+			{
+				"name": "KYOSHI",
+				"definition": "Professeur , titre japonais de second niveau qui peut être obtenu à partir du 7ème Dan",
+				"type": "partner"
+			},
+			{
+				"name": "MOTO DACHI",
+				"definition": "Partenaire qui dirige l'exercice",
+				"type": "partner"
+			},
+			{
+				"name": "RENSHI",
+				"definition": "Instructeur, titre japonais de premier niveau qui peut être obtenu à partir du 6ème Dan",
+				"type": "partner"
+			},
+			{
+				"name": "SHIDACHI",
+				"definition": "Partenaire qui profite des opportunités créées par Uchidachi dans le Kata",
+				"type": "partner"
+			},
+			{
+				"name": "SEMPAI",
+				"definition": "Ancien, supérieur en ancienneté parmi les élèves d'un dojo. C'est lui qui donne les ordres de salut au début et à la fin de l'entraînement",
+				"type": "partner"
+			},
+			{
+				"name": "SENSEI",
+				"definition": "Enseignant - Maître",
+				"type": "partner"
+			},
+			{
+				"name": "UCHI DACHI",
+				"definition": "Celui qui, dans le KENDO NO KATA, subit la contre-attaque de SHI DACHI après avoir pris l'initiative",
+				"type": "partner"
+			},
+			{
+
+				"name": "MEN (ou KOTE/DO/TSUKI). ARI",
+				"definition": "Un point marqué",
+				"type": "competition"
+			},
+			{
+				"name": "ENCHO",
+				"definition": "Prolongation du combat (cas où les combattants sont à égalité)",
+				"type": "competition"
+			},
+			{
+				"name": "HANSOKU",
+				"definition": "faute, infraction",
+				"type": "competition"
+			},
+			{
+				"name": "HANTEI",
+				"definition": "Jugement, décision",
+				"type": "competition"
+			},
+			{
+				"name": "HIKI WAKE",
+				"definition": "Match nul",
+				"type": "competition"
+			},
+			{
+				"name": "IPPON",
+				"definition": "Point",
+				"type": "competition"
+			},
+			{
+				"name": "JI GEIKO",
+				"definition": "Combat d'entraînement 'libre' (sans convention ni arbitrage)",
+				"type": "competition"
+			},
+			{
+				"name": "NIHONME",
+				"definition": "Départ pour le second point",
+				"type": "competition"
+			},
+			{
+				"name": "SHIAI GEIKO",
+				"definition": "Compétition. Combat arbitré",
+				"type": "competition"
+			},
+			{
+				"name": "SHIAI JO",
+				"definition": "Aire de combat",
+				"type": "competition"
+			},
+			{
+				"name": "SHINPAN",
+				"definition": "Arbitre",
+				"type": "competition"
+			},
+			{
+				"name": "DAN",
+				"definition": "degré dans la ceinture noire (de 1 à 9 en Kendo)",
+				"type": "etiquette"
+			},
+			{
+				"name": "DOMO ARIGAT0 GOZAIMASHITA",
+				"definition": "signifie 'je vous remercie beaucoup', couramment employé après un combat",
+				"type": "etiquette"
+			},
+			{
+				"name": "GOMEN NASAI",
+				"definition": "Je suis désolé",
+				"type": "etiquette"
+			},
+			{
+				"name": "HAI",
+				"definition": "oui, je comprends",
+				"type": "etiquette"
+			},
+			{
+				"name": "KAMIZA",
+				"definition": "côté du Dojo réservé aux enseignants et aux invités de haut niveau",
+				"type": "etiquette"
+			},
+			{
+				"name": "KYU",
+				"definition": "Classe, échelon. En Kendo, niveau inférieur au premier Dan (du 6ème au 1er Kyu)",
+				"type": "etiquette"
+			},
+			{
+				"name": "ONEGAI SHIMASU",
+				"definition": "signifie que je demande la faveur de pratiquer et employé avant de commencer un keiko avec un kenshi plus expérimenté",
+				"type": "etiquette"
+			},
+			{
+				"name": "SUMIMASEN",
+				"definition": "Je suis désolé",
+				"type": "etiquette"
+			},
+			{
+				"name": "BUDO",
+				"definition": "Voie de l'art martial",
+				"type": "spirit/way"
+			},
+			{
+				"name": "KENDO",
+				"definition": "La voie du sabre",
+				"type": "spirit/way"
+			},
+			{
+				"name": "KI",
+				"definition": "Détermination mentale et physique nécessaire pour porter une frappe",
+				"type": "spirit/way"
+			},
+			{
+				"name": "KIAI",
+				"definition": "Manifestation de l'énergie (KI) par le cri qui jaillit du corps",
+				"type": "spirit/way"
+			},
+			{
+				"name": "KI KEN TAI NO ITCHI",
+				"definition": "Energie Sabre Corps, les 3 éléments fondamentaux permettant la réalisation correcte d'une frappe en KENDO; cri énergique (Ki) avec la bonne partie du sabre (KEN) et un engagement total du corps (TAI)",
+				"type": "spirit/way"
+			},
+			{
+				"name": "KI KEN TAI NO UCHI",
+				"definition": "Harmonie de l'esprit, du sabre et du corps dans la réalisation des techniques",
+				"type": "spirit/way"
+			},
+			{
+				"name": "METSUKE",
+				"definition": "l'endroit où se fixe le regard, manière de regarder l'adversaire en Kendo",
+				"type": "spirit/way"
+			},
+			{
+				"name": "TE NO UCHI",
+				"definition": "'L'intérieur des mains'. Terme utilisé pour sensibiliser le pratiquant sur la sensation physique du contact de la main avec le manche du Shinaï à travers le cuir du Kote et de la Tsuka Gawa",
+				"type": "spirit/way"
+			},
+			{
+				"name": "TOBI KOMI",
+				"definition": "Plongeon. Irruption. Qualifie une action portée sans esprit de retenue",
+				"type": "spirit/way"
+			},
+			{
+				"name": "ZANSHIN",
+				"definition": "Esprit de vigilance qui doit exister avant, pendant et après la frappe",
+				"type": "spirit/way"
+			},
+			{
+				"name": "Ichi",
+				"definition": "1",
+				"type": "numbers"
+			},
+			{
+				"name": "Ni",
+				"definition": "2",
+				"type": "numbers"
+			},
+			{
+				"name": "San",
+				"definition": "3",
+				"type": "numbers"
+			},
+			{
+				"name": "Shi/Yon",
+				"definition": "4",
+				"type": "numbers"
+			},
+			{
+				"name": "Go",
+				"definition": "5",
+				"type": "numbers"
+			},
+			{
+				"name": "Roku",
+				"definition": "6",
+				"type": "numbers"
+			},
+			{
+				"name": "Shichi/Nana",
+				"definition": "7",
+				"type": "numbers"
+			},
+			{
+				"name": "Hachi",
+				"definition": "8",
+				"type": "numbers"
+			},
+			{
+				"name": "Kyû/Ku",
+				"definition": "9",
+				"type": "numbers"
+			},
+			{
+				"name": "Jû",
+				"definition": "10",
+				"type": "numbers"
+			},
+			{
+				"name": "Jû-ichi",
+				"definition": "11",
+				"type": "numbers"
+			},
+			{
+				"name": "Niju",
+				"definition": "20",
+				"type": "numbers"
+			},
+			{
+				"name": "Hyaku",
+				"definition": "100",
+				"type": "numbers"
+			}
+	],
+	"sections": [
+	],
+	"katas": {
+		"title": "Ordre des Katas",
+		"order": [
+			"TACHI (grand sabre)",
+			"IPPON-ME",
+			"NIHON-ME",
+			"SANBON-ME",
+			"YOHON-ME",
+			"GOHON-ME",
+			"ROPPON-ME",
+			"NANAHON-ME",
+			"KODASHI (petit sabre)",
+			"IPPON-ME",
+			"NIHON-ME",
+			"SANBON-ME"
+		]
+	}
+}

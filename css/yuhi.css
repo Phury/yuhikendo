@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css?family=Fauna+One|Open+Sans');
+
+/* reset */
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 1em;
+    font-weight: normal;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+/* font */
+body { font-family: 'Open Sans', sans-serif; }
+h1, h2, h3, h4, h5 { font-family: 'Fauna One', serif; }
+a { font-family: 'Open Sans', sans-serif; }
+
+
+
+body {
+	font-size: 16px;
+	line-height: 22px;
+	color: #FFF;
+	background-color: #142134;
+}
+
+h3 {
+	display: inline-block;
+	font-size: 2em;
+	padding: 0.3em 0 0.9em 0;
+}
+
+.container {
+}
+
+main {
+	text-align: left;
+}
+
+/* navigation */
+
+	nav a {
+		font-size: 1.4em;
+		line-height: 1.4em;
+		text-transform: uppercase;
+		text-decoration: none;
+		color: #FFF;
+	}
+
+	nav a:hover {
+		color: #142134;
+	}
+	nav a.active {
+		border-bottom: 1px solid #142134;
+		color: #142134;
+	}
+
+ul.list li {
+	list-style-type: disc;
+	margin-left: 1em;
+}
+
+ul.media li {
+	display: inline-block;
+	margin: 1em;
+}
+
+ul.media img {
+	display: block;
+}
+
+ul.media span.caption {
+	display: block;
+	text-align: center;
+}
+
+div.media {
+	
+}
+	div.media img {
+		display: block;
+		margin-bottom: 40px;
+	}
+
+
+.subSection {
+	padding: 30px 20px 50px 20px;
+}
+	.subSubSection {
+		padding: 20px 0;
+	}
+
+
+.bgimg {
+ 	height: 350px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main .wrapper:nth-child(3) .bgimg { background-image: url("../img/YHsensei.jpg"); }
+main .wrapper:nth-child(4) .bgimg { background-image: url("../img/YHcontact.jpg"); }
+main .wrapper:nth-child(5) .bgimg { background-image: url("../img/YHagenda.jpg"); }
+main .wrapper:nth-child(6) .bgimg { background-image: url("../img/YHglossaire.jpg"); }
+
+footer {
+	background-color: #5E6165;
+}
+
+
+.splash {
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../img/YHnews.jpg");
+}
+	.splash > a {
+		display: block;
+		margin: 0 auto;
+	    width: 363px;
+	    height: 800px;
+
+    	background-position: top;
+    	background-repeat: no-repeat;
+	    background-image: url("../img/txt-YH-index.png");
+
+	    text-indent: -9999px;
+	}
+
+/* screen size specific */
+nav.mobileOnly {
+	display: none;
+}
+
+@media (min-width: 961px) {
+	aside {
+		width: 280px;
+		height: 600px;
+		text-align: center;
+
+		position: fixed;
+		top: 0;
+		left: 20px;
+
+		z-index: 20;
+
+		background-image: url("../img/bande_menu.png");
+	    background-position: bottom;
+	    background-repeat: no-repeat;
+	}
+
+		nav {
+			margin: 65px 0;
+		}
+
+	.subSection {
+		margin-left: 320px;
+	}
+}
+
+@media (max-width: 960px) {
+	aside {
+		width: 100%;
+
+		position: fixed;
+		top: 0;
+		left: 0;
+	}
+	nav { display: none; }
+	nav.mobileOnly { 
+		display: inherit; 
+		width: 100%;
+		background-color: #FFF;
+	}
+	nav.mobileOnly h3 {
+		display: block;
+		color: #142134;
+		padding: 0.2em 0;
+		font-size: 1.2em;
+	}
+	nav.mobileOnly select {
+		margin: 0.3em;
+		width: 98%;
+	}
+}
+
