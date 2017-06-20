@@ -160,7 +160,7 @@ var ContactComponent = React.createClass({
         if (this.props.section == null) return null;
    
         var contactList = this.props.section.contact.map(function(elt, i) {
-            return <img key={i} src={"/img/" + elt.image} width="250" height="auto" />;
+            return <img key={i} src={"./img/" + elt.image} width="250" height="auto" />;
         });
 
         return (
@@ -324,7 +324,7 @@ var YuhiApp = React.createClass({
                     <TeachersComponent section={this.state.teacherSection} />
                     <AgendaComponent section={this.state.agendaSection} />
                     <ContactComponent section={this.state.contactSection} />
-                    <GlossaryComponent section={this.state.glossarySection} source="/data/glossary.json" />
+                    <GlossaryComponent section={this.state.glossarySection} source="./data/glossary.json" />
                 </main>
             </div>
         );
@@ -333,6 +333,6 @@ var YuhiApp = React.createClass({
 
 
 ReactDOM.render(
-  <YuhiApp source="/data/yuhi.json" />,
+  <YuhiApp source="./data/yuhi.json" />,
   document.getElementById("app")
 );
